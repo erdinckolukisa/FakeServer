@@ -1,6 +1,6 @@
 {
-albums:{
-           {
+albums:[
+ {
     "userId": 1,
     "id": 1,
     "title": "quidem molestiae enim"
@@ -40,7 +40,7 @@ albums:{
     "id": 8,
     "title": "qui fuga est a eum"
   }
-}
+]
 
 attributes:{
 name: "Novak", 
